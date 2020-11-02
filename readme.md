@@ -13,5 +13,5 @@ python.exe .\bluetooth_fix.py --reg_path .\keys.reg > info.txt
 
 
 -------
-get back on linux and update the info file from the previus paring.
+get back on linux and update the info file from the previous paring.
 restart bluethooth service.
